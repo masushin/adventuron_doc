@@ -3,9 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-======================================
 Adventuron User Guide
-======================================
+*********************
 
 Welcome To Adventuron
 =====================
@@ -62,15 +61,13 @@ Screenshots of games made with Adventuron are shown below.
 Adventuronで作成したゲームのスクリーンショットを以下に示します。
 
 .. toctree::
+   :numbered:
    :maxdepth: 2
-   :caption: Contents:
 
-
+   index
 
 Indices and tables
 ==================
-のりすけ
-
 
 * :ref:`genindex`
 * :ref:`modindex`
